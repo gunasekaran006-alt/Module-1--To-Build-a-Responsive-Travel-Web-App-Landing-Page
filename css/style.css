@@ -58,7 +58,7 @@ body {
 .hero {
     height: 80vh;
     background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
-                url('./images/364d16287b1dbdccbe154f54bc129950.jpg') no-repeat center center/cover;
+                url('/images/364d16287b1dbdccbe154f54bc129950.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
